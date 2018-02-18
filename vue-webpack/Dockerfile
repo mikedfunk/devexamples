@@ -1,4 +1,4 @@
 FROM node
 COPY . .
-RUN yarn
+RUN yarn --dev
 CMD yarn start
