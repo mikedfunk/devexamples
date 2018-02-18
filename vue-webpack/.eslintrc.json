@@ -1,3 +1,6 @@
 {
-  "extends": "vue-app"
+  "extends": ["standard", "vue-app"],
+  "rules": {
+    "no-new": 0
+  }
 }
