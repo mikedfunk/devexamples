@@ -1,0 +1,16 @@
+{
+  "name": "vue-example",
+  "version": "0.1",
+  "description": "vue example app",
+  "main": "index.js",
+  "repository": "git@github.com:mikedfunk/vue-example.git",
+  "author": "Mike Funk <mike@mikefunk.com> (http://mikefunk.com)",
+  "license": "Apache-2.0",
+  "private": false,
+  "scripts": {
+    "start": "./node_modules/.bin/poi src/js/index.js --port=4010"
+  },
+  "dependencies": {
+    "poi": "^9.6.13"
+  }
+}
