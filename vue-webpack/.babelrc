@@ -3,6 +3,6 @@
   "ignore": [],
   "plugins": [],
   "presets": [
-    "latest"
+    "env"
   ]
 }
