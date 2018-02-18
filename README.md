@@ -2,4 +2,4 @@
 
 Small examples of various tools, techniques, and features
 
-WIP
+* [vue with poi](./vue-poi)
